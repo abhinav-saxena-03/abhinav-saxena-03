@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abhinav-saxena-03
-- 👀 I’m interested in Artificial Intellegence
+- 👀 I’m interested in Full Stack Development and Block chain technology
 - 🌱 I’m currently Pursuing B.Tech Dgree from SSIMPT Raipur
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
